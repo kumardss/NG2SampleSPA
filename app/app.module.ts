@@ -9,6 +9,7 @@ import { AboutComponent } from './components/pages/about.component';
 import { HomeComponent } from './components/pages/home.component';
 import { ContactComponent } from './components/pages/contact.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { ThankYouComponent } from './components/pages/thankyou.component';
 
 import { routing } from './app.routing';
 
@@ -21,7 +22,8 @@ import { routing } from './app.routing';
                     AboutComponent,
                     HomeComponent,
                     ContactComponent,
-                    FooterComponent],
+                    FooterComponent,
+                    ThankYouComponent],
     bootstrap:[AppComponent]
 })
 

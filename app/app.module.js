@@ -15,6 +15,7 @@ var about_component_1 = require("./components/pages/about.component");
 var home_component_1 = require("./components/pages/home.component");
 var contact_component_1 = require("./components/pages/contact.component");
 var footer_component_1 = require("./components/footer/footer.component");
+var thankyou_component_1 = require("./components/pages/thankyou.component");
 var app_routing_1 = require("./app.routing");
 var AppModule = (function () {
     function AppModule() {
@@ -30,7 +31,8 @@ AppModule = __decorate([
             about_component_1.AboutComponent,
             home_component_1.HomeComponent,
             contact_component_1.ContactComponent,
-            footer_component_1.FooterComponent],
+            footer_component_1.FooterComponent,
+            thankyou_component_1.ThankYouComponent],
         bootstrap: [app_component_1.AppComponent]
     })
 ], AppModule);
