@@ -9,6 +9,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var ThankYouComponent = (function () {
     function ThankYouComponent() {
+        this.message = "Thank you for sending us your details. We will reach you as soon as possible via email.";
     }
     return ThankYouComponent;
 }());
