@@ -5,3 +5,10 @@
 h3{
     margin:15px 0;
 }
+
+hr {
+    background-color: #ccc;
+    color: #ccc;
+    border: none;
+    height: 1.5px;
+}
