@@ -1,4 +1,4 @@
-# MediaWatchListing
+# NG2-SampleSPA
 
 This is the repository for my project **Ng2-SampleSPA App**  
 
