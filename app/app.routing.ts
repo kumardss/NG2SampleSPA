@@ -8,15 +8,15 @@ import { ThankYouComponent } from './components/pages/thankyou.component';
 
 const appRoutes: Routes=[
     {
-        path:'',
+        path:'/NG2SampleSPA/',
         component:HomeComponent
     },
     {
-        path:'about',
+        path:'/NG2SampleSPA/about',
         component:AboutComponent
     },
     {
-        path:'contact',
+        path:'/NG2SampleSPA/contact',
         component:ContactComponent
     }
     {
